@@ -1,4 +1,4 @@
-# Ogochukwu Ezeogu 👑
+# Ogochukwu Ezeogu 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Data+Analyst;Transforming+Data+Into+Decisions;Strategy+for+Organizations)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ogochukwu-ezeogu/)
