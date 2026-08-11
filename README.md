@@ -22,8 +22,8 @@ When I'm not deep in a dataset, I'm sharpening my stats fundamentals, developing
 ## 🛠 Tools & Skillset
    ### Analytical
 ![RStudio](https://img.shields.io/badge/RStudio-blue?style=for-the-badge&logo=rstudio)
-![Tableau](https://img.shields.io/badge/Tableau-orange?style=for-the-badge&logo=tableau)
-![BigQuery](https://img.shields.io/badge/BigQuery-black?style=for-the-badge&logo=BigQuery)
+![Tableau](https://img.shields.io/badge/Tableau-orange?style=for-the-badge&logo=tableauvisulaization)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery)
 ![GoogleSheet](https://img.shields.io/badge/googlesheets-lightgreen?style=for-the-badge&logo=googlesheets)
 ![LookerStudio](https://img.shields.io/badge/LookerStudio-skyblue?style=for-the-badge&logo=looker)
 ![IBMCognos](https://img.shields.io/badge/IBMCognos-052FAD?style=for-the-badge&logo=cognos)
