@@ -19,14 +19,27 @@ When I'm not deep in a dataset, I'm sharpening my stats fundamentals, developing
 - Epidemiology 
 - Public Health Research and Article Development
 
-## 🛠 Analytical Tools & Skillset
-![RStudio](https://img.shields.io/badge/RStudio-blue?style=for-the-badge&logo=RStudio)
-![Tableau](https://img.shields.io/badge/Tableau-orange?style=for-the-badge&logo=Tableau)
+## 🛠 Tools & Skillset
+   ### Analytical
+![RStudio](https://img.shields.io/badge/RStudio-blue?style=for-the-badge&logo=rstudio)
+![Tableau](https://img.shields.io/badge/Tableau-orange?style=for-the-badge&logo=tableau)
 ![BigQuery](https://img.shields.io/badge/BigQuery-black?style=for-the-badge&logo=BigQuery)
-![GoogleSheet](https://img.shields.io/badge/GoogleSheet-lightgreen?style=for-the-badge&logo=GoogleSheet)
-![LookerStudio](https://img.shields.io/badge/LookerStudio-skyblue?style=for-the-badge&logo=LookerStudio)
-![IBMCognos](https://img.shields.io/badge/IBMCognos-redbue?style=for-the-badge&logo=IBMCognos)
+![GoogleSheet](https://img.shields.io/badge/googlesheets-lightgreen?style=for-the-badge&logo=googlesheets)
+![LookerStudio](https://img.shields.io/badge/LookerStudio-skyblue?style=for-the-badge&logo=looker)
+![IBMCognos](https://img.shields.io/badge/IBMCognos-052FAD?style=for-the-badge&logo=cognos)
 
+
+### Process Flow Development
+![Lucidchart](https://img.shields.io/badge/Lucidchart-F06C00?style=for-the-badge&logo=lucid)
+
+### Project Management 
+![Asana](https://img.shields.io/badge/Asana-lightpink?style=for-the-badge&logo=Asana)
+![Jira](https://img.shields.io/badge/Jira-skyblue?style=for-the-badge&logo=Jira)
+
+
+### Documentation Tools 
+![GoogleDOcs](https://img.shields.io/badge/GoogleDOcs-blue?style=for-the-badge&logo=GoogleDOcs)
+![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github)
 
 
 
